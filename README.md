@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/Ege-Deniz/Ege-Deniz/main/banner.png)
+![banner](https://raw.githubusercontent.com/Ege-Deniz/Ege-Deniz/main/banner.svg)
 
 </div>
 
