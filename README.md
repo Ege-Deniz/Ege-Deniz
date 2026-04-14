@@ -26,7 +26,7 @@
 
 ### Focus
 
-`full-stack web` &nbsp; · &nbsp; `applied AI / ML` &nbsp; · &nbsp; `spatial web & WebGL`
+`full-stack developer` &nbsp; · &nbsp; `applied AI / ML` &nbsp; · &nbsp; `spatial web & WebGL`
 
 </div>
 
