@@ -8,7 +8,7 @@
 
 <div align="center">
 
-**Full-stack engineer building AI systems and cinematic web experiences.**
+**AI-native Full-stack engineer building AI systems and cinematic web experiences.**
 
 </div>
 
