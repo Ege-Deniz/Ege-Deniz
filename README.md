@@ -6,6 +6,18 @@
 
 <div align="center">
 
+[![rowy.engineer](https://img.shields.io/badge/rowy.engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=3b82f6)](https://rowy.engineer)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&labelColor=0d1117&color=8b949e)](https://linkedin.com/in/ege-deniz)
+&nbsp;
+[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&labelColor=0d1117&color=d97757)](mailto:ege@rowy.engineer)
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,6 +49,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/-Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ege-Deniz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=9aa4b2&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ege-Deniz&layout=compact&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=9aa4b2&langs_count=8" alt="Top languages" />
 </div>
 
 <br/>
