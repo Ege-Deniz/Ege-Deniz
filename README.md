@@ -54,8 +54,7 @@
 <br/>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ege-Deniz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=9aa4b2&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ege-Deniz&layout=compact&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=9aa4b2&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ege-Deniz&theme=react-dark&bg_color=0d1117&color=ffffff&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true&hide_title=true&radius=12&custom_title=" alt="Contribution activity" width="98%" />
 </div>
 
 <br/>
