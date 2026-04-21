@@ -54,15 +54,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ege-Deniz&theme=react-dark&bg_color=0d1117&color=ffffff&line=3b82f6&point=ffffff&area=true&area_color=3b82f6&hide_border=true&hide_title=true&radius=12&custom_title=" alt="Contribution activity" width="98%" />
-</div>
-
-<br/>
-
-<div align="center">
 
 <sub>— shipping shaders, shipping models, shipping systems —</sub>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b82f6,100:0d1117&height=120&section=footer&animation=fadeIn" alt="" width="100%" />
 
 <!-- reached the bottom? send "portal" — i'll know you read the source. -->
