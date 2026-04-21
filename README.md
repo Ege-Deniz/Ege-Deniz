@@ -4,46 +4,22 @@
 
 <br />
 
-### Now
+<div align="center">
 
-- **Shipping** → [rowy.engineer](https://rowy.engineer) — spatial portfolio, Three.js + custom GLSL, not templates
-- **Building** → Rowy Operator, a local AI operator that reads a second brain, runs bounded missions, leaves durable Markdown reports
-- **Writing** → first-principles notes on AI-native dev surfaces and shader authoring
-- **Studying** → deep learning, systems design, WebGL pipelines
+Senior CS student · Istanbul · heading into an AI/DS master's
 
----
-
-### Selected Work
-
-| Project | What it is |
-|---|---|
-| **[rowy.engineer](https://rowy.engineer)** · [source](https://github.com/Ege-Deniz/personal-hub) | Spatial portfolio. Three.js particle systems, custom GLSL shaders, cinematic motion. |
-| **Rowy Operator** _(in development)_ | Mission-based local AI operator. Reads a second brain, inspects workspaces, runs bounded missions, leaves evidence you can grep in a year. |
-| **[zen-archery-for-builders](https://github.com/Ege-Deniz/zen-archery-for-builders)** | Workflow discipline for AI-assisted building. Cleaner context, fewer repeated corrections, better agent setup. |
-| **[siba-e-motion](https://siba-e-motion.vercel.app)** · [source](https://github.com/Ege-Deniz/siba-e-motion) | EV dealership site with a progressive enhancement layer and a reactive canvas hero overlay. |
-
----
-
-### Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,webgl,py,c,nodejs,supabase,postgres,docker,vercel" alt="stack" />
-</p>
-
-**AI** — Claude · Codex · Anthropic SDK · LangChain · PyTorch · OpenAI
-
----
-
-<details>
-<summary><b>How I build</b></summary>
+</div>
 
 <br />
 
-- **Eval-first** — ship when evaluators agree, not when the code compiles
-- **Durable artifacts** — every mission leaves a Markdown report you can grep in a year
-- **Agent-native** — tools and context shaped for AI collaborators, not against them
-- **Spatial taste** — shaders, motion, depth; product cinema over template UI
+Most of what I actually ship lives at [**rowy.engineer**](https://rowy.engineer) — a spatial portfolio built in Three.js with my own shaders, which I keep rebuilding because it's never quite right.
 
-</details>
+Currently heads-down on a local AI operator that reads a personal knowledge base, runs bounded missions, and writes durable Markdown reports. Private while it stabilizes.
 
-<!-- If you found this, send me "portal" and I'll know you read the source. -->
+<br />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,webgl,py,c,nodejs,supabase,postgres,docker,vercel" alt="stack" />
+</p>
+
+<!-- reached the bottom? send "portal" — i'll know you read the source. -->
