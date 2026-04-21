@@ -1,61 +1,49 @@
 <div align="center">
-  <img src="banner.png" alt="Ege Deniz profile banner" width="100%" />
+  <img src="banner.png" alt="Ege Deniz" width="100%" />
 </div>
 
 <br />
 
-<div align="center">
+### Now
 
-# Ege Deniz
-
-**Full-stack AI builder. Spatial web, agent systems, and cinematic product surfaces.**
-
-[rowy.engineer](https://rowy.engineer) · [LinkedIn](https://linkedin.com/in/ege-deniz) · [Email](mailto:deadlyrod11@gmail.com)
-
-</div>
+- **Shipping** → [rowy.engineer](https://rowy.engineer) — spatial portfolio, Three.js + custom GLSL, not templates
+- **Building** → Rowy Operator, a local AI operator that reads a second brain, runs bounded missions, leaves durable Markdown reports
+- **Writing** → first-principles notes on AI-native dev surfaces and shader authoring
+- **Studying** → deep learning, systems design, WebGL pipelines
 
 ---
 
-## What I Build
+### Selected Work
 
-I build AI-native software with a visual edge: local operator systems, agent workflows, second-brain infrastructure, and spatial web experiences that feel closer to product cinema than template UI.
-
-| Focus | Proof |
+| Project | What it is |
 |---|---|
-| **AI-native systems** | Agents, workflow tools, durable Markdown reports, second-brain infrastructure |
-| **Spatial web** | Three.js, WebGL, GLSL, particle systems, shader-driven interfaces |
-| **Product craft** | Next.js, React, Tailwind, deployable artifacts with tight visual direction |
-
-## Featured Work
-
-**[rowy.engineer](https://rowy.engineer)**
-
-Personal spatial portfolio built around Three.js particle systems, custom GLSL shaders, and cinematic interaction design.
-
-Repo: [Ege-Deniz/personal-hub](https://github.com/Ege-Deniz/personal-hub)
-
-**[zen-archery-for-builders](https://github.com/Ege-Deniz/zen-archery-for-builders)**
-
-A workflow discipline layer for AI-assisted building: cleaner context, fewer repeated corrections, better agent setup.
-
-**[siba-e-motion](https://github.com/Ege-Deniz/siba-e-motion)**
-
-EV dealership site with a progressive enhancement layer, reactive canvas hero overlay, and manifest-driven model switching.
-
-Live: [siba-e-motion.vercel.app](https://siba-e-motion.vercel.app)
-
-## Now Building
-
-**Rowy Operator** - a mission-based local AI operator for brain context, browser QA, patch planning, and durable project reports.
-
-It is the execution layer around my personal knowledge system: read the brain, inspect the workspace, run bounded missions, verify results, and leave evidence behind.
-
-## Stack
-
-TypeScript · React · Next.js · Three.js · WebGL · GLSL · Python · C · Node · Tailwind · Supabase · Codex · Claude Code
+| **[rowy.engineer](https://rowy.engineer)** · [source](https://github.com/Ege-Deniz/personal-hub) | Spatial portfolio. Three.js particle systems, custom GLSL shaders, cinematic motion. |
+| **Rowy Operator** _(in development)_ | Mission-based local AI operator. Reads a second brain, inspects workspaces, runs bounded missions, leaves evidence you can grep in a year. |
+| **[zen-archery-for-builders](https://github.com/Ege-Deniz/zen-archery-for-builders)** | Workflow discipline for AI-assisted building. Cleaner context, fewer repeated corrections, better agent setup. |
+| **[siba-e-motion](https://siba-e-motion.vercel.app)** · [source](https://github.com/Ege-Deniz/siba-e-motion) | EV dealership site with a progressive enhancement layer and a reactive canvas hero overlay. |
 
 ---
 
-<div align="center">
-  <sub>Shipping AI systems with spatial taste.</sub>
-</div>
+### Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,threejs,webgl,py,c,nodejs,supabase,postgres,docker,vercel" alt="stack" />
+</p>
+
+**AI** — Claude · Codex · Anthropic SDK · LangChain · PyTorch · OpenAI
+
+---
+
+<details>
+<summary><b>How I build</b></summary>
+
+<br />
+
+- **Eval-first** — ship when evaluators agree, not when the code compiles
+- **Durable artifacts** — every mission leaves a Markdown report you can grep in a year
+- **Agent-native** — tools and context shaped for AI collaborators, not against them
+- **Spatial taste** — shaders, motion, depth; product cinema over template UI
+
+</details>
+
+<!-- If you found this, send me "portal" and I'll know you read the source. -->
