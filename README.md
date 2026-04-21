@@ -1,14 +1,16 @@
 <div align="center">
-
-![banner](https://raw.githubusercontent.com/Ege-Deniz/Ege-Deniz/main/banner.svg)
-
+  <img src="banner.png" alt="Ege Deniz" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
 
-**Full-Stack AI × Spatial Web.** Building AI-native systems and cinematic web experiences.
+[![rowy.engineer](https://img.shields.io/badge/rowy.engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=3b82f6)](https://rowy.engineer)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&labelColor=0d1117&color=8b949e)](https://linkedin.com/in/ege-deniz)
+&nbsp;
+[![Email](https://img.shields.io/badge/email-0d1117?style=for-the-badge&labelColor=0d1117&color=d97757)](mailto:ege@rowy.engineer)
 
 </div>
 
@@ -20,7 +22,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
@@ -54,18 +55,12 @@
 
 <div align="center">
 
-[![rowy.engineer](https://img.shields.io/badge/-rowy.engineer-0d1117?style=for-the-badge&labelColor=0d1117&color=3b82f6)](https://rowy.engineer)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0d1117?style=for-the-badge&labelColor=0d1117&color=8b949e)](https://linkedin.com/in/ege-deniz)
-&nbsp;
-[![Email](https://img.shields.io/badge/-email-0d1117?style=for-the-badge&labelColor=0d1117&color=ea4335)](mailto:deadlyrod11@gmail.com)
+<sub>— shipping shaders, shipping models, shipping systems —</sub>
 
 </div>
 
 <br/>
 
-<div align="center">
-  <sub>— shipping shaders, shipping models, shipping systems —</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:3b82f6,100:0d1117&height=120&section=footer&animation=fadeIn" alt="" width="100%" />
 
-<!-- I'm Batman. -->
+<!-- reached the bottom? send "portal" — i'll know you read the source. -->
