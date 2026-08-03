@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Ege Deniz" width="100%" />
+  <img src="./assets/ege-readme-hero-v1.png" alt="Ege Deniz" width="100%" />
 </div>
 
 <br/>
